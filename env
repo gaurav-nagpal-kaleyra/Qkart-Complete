@@ -1,0 +1,6 @@
+NODE_ENV=development
+PORT=8082
+JWT_SECRET=779dc3e2520729e16e963d78d3f0bd2a157693fe11ca2c70ae3c3c70dea72c05ed82100b59acdc48ba10e34e3d8921a12b77292d8f1471dd8ea79ed3d84a6171
+JWT_ACCESS_EXPIRATION_MINUTES=240
+JWT_REFRESH_EXPIRATION_DAYS=30
+MONGODB_URL=mongodb+srv://gauravnagpal:gauravnagpal@qkart-node.pna2xlq.mongodb.net/test?retryWrites=true&w=majority
